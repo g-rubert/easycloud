@@ -65,6 +65,7 @@ Queremos manter esta versão do EasyCloud open source, e estamos aceitando modif
   Atualmente
   
   Guilherme Rubert  (Full Stack Developer) - guilherme@guilhermerubert.com
+  
   Cezar Augusto Crummenauer (Front-end Developer) - cezar.augusto.web@gmail.com
   
   
