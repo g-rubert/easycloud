@@ -5,25 +5,36 @@ FSS (File Sharing System)
  
 -------------------------------------------------------------Detalhes------------------------------------------------------------------
 
-EasyCloud - Sistema ou serviço de compartilhamento de arquivos. 
+EasyCloud - Sistema de compartilhamento de arquivos. 
 
 *Projeto foi iniciado em 2017 no SENAC - Santa Maria;
+
 *Projeto classificado para a feira de projetos do SENAC-RS;
+
 *Propósito inovador voltado a segurança da informação;
+
 *Projeto apresentado a equipes de TI do SENAC, SEBRAE, Empresários, Professores, alunos e ao público geral que presenciou a feira;
+
 
 
 
 
 *Assuntos abordados:
   *Ciber-ataques;
+  
   *Prevenção de ataques como SQL Injection, Cross Siste Scripting, LFI, RFI e brute force attack;
+  
   *Análise de malware e prevenção de incidentes de segurança;
+  
   *Análise de riscos em segurança da informação;
+  
   *Virus Total API;
   
   *User Experience;
+  
   -- Por ser um projeto voltado a uso interno em empresas de médio e grande porte, procuramos desenvolver algo seguro e intuitivo, de fácil utilização, baseado em conceitos de UX (User Experience).
+  
+  
   
   *Análise de custo-benefício na utilização de um sistema de compartilhamento de arquivos;
  
@@ -73,6 +84,7 @@ Queremos manter esta versão do EasyCloud open source, e estamos aceitando modif
   ------------------------------------------------------------Conceitos---------------------------------------------------------------
   
   UX: Experiência do usuário, do inglês user experience, é o conjunto de elementos e fatores relativos à interação do usuário com um determinado produto, sistema ou serviço cujo resultado gera uma percepção positiva ou negativa;
-  SQL Injection, Cross Siste Scripting, LFI, RFI e brute force attack: Ataques comumente explorados por atacantes em movimentos hackerativistas;
+ 
+ SQL Injection, Cross Siste Scripting, LFI, RFI e brute force attack: Ataques comumente explorados por atacantes em movimentos hackerativistas;
   
   
