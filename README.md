@@ -20,6 +20,7 @@ EasyCloud - Sistema de compartilhamento de arquivos.
 
 
 *Assuntos abordados:
+
   *Ciber-ataques;
   
   *Prevenção de ataques como SQL Injection, Cross Siste Scripting, LFI, RFI e brute force attack;
@@ -61,7 +62,7 @@ Queremos manter esta versão do EasyCloud open source, e estamos aceitando modif
   
    Muito tempo e conhecimento foi envolvido em todas etapas da criação da primeira versão, estudos voltados a diversas áreas de TI e de comércio. Queremos que jovens usufruam destas informações para prosseguir com seus projetos pessoais e profissionais, atingindo seus objetivos com maior facilidade.
     
-  MVC e desenvolvimento não-formal: Optamos por não desenvolver formalmente as primeiras versões. Focamos totalmente no funcionamento e apresentação da solução, já que o prazo de apresentação era curto. Estas questões óbviamente foram pensadas e ajustadas em parte, de forma que com a evolução do software, também estamos evoluindo a sua organização em pontos que são cruciais no meio de desenvolvimento profissional. Nossos desenvolvedores estão disponíveis para responder qualquer dúvidas sobre a plataforma e o funciomento desta.
+  MVC e desenvolvimento não-formal: Optamos por não desenvolver formalmente as primeiras versões. Focamos totalmente no funcionamento e apresentação da solução, já que o prazo de apresentação era curto. Estas questões óbviamente foram pensadas e ajustadas em parte, de forma que com a evolução do software, também estamos evoluindo a sua organização em pontos que são cruciais no meio de desenvolvimento profissional. Nossos desenvolvedores estão disponíveis para responder qualquer dúvida sobre a plataforma e o funciomento desta.
 
   
   
