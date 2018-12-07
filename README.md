@@ -21,7 +21,7 @@ EasyCloud - Sistema de compartilhamento de arquivos.
 
 *Assuntos abordados:
 
-  *Ciber-ataques;
+  *Cyber-ataques;
   
   *Prevenção de ataques como SQL Injection, Cross Siste Scripting, LFI, RFI e brute force attack;
   
