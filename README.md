@@ -1,21 +1,14 @@
 # EasyCloud
-<h1>FSS (File Sharing System)</h1>
-
- 
-<h2>Detalhes</h2>
 
 <h2>EasyCloud - Sistema de compartilhamento de arquivos.</h2> 
 
+<h4>Timeline</h4>
+
 <p>Projeto foi iniciado em 2017 no SENAC - Santa Maria;</p>
 
-<p>Projeto classificado para a feira de projetos do SENAC-RS;</p>
+<p>Projeto foi classificado para a 8ª feira de projetos do SENAC-RS;</p>
 
-<p>Propósito inovador voltado a segurança da informação;</p>
-
-<p>Projeto apresentado a equipes de TI do SENAC, SEBRAE, Empresários, Professores, alunos e ao público geral que presenciou a feira;</p>
-
-
-
+<p>Projeto apresentado a equipes de TI do SENAC, SEBRAE, Empresários, Professores, alunos e ao público geral que presenciou a feira</p>
 
 <h2>Assuntos abordados:</h2>
 
