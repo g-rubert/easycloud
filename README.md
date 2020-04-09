@@ -9,7 +9,7 @@
 <p>Projeto foi classificado para a 8ª feira de projetos do SENAC-RS;</p>
 
 <p>Projeto apresentado a equipes de TI do SENAC, SEBRAE, Empresários, Professores, alunos e ao público geral que presenciou a feira</p>
-
+<a href="https://www.senacrs.com.br/noticiasDetalhe.asp?idNoticia=54353">https://www.senacrs.com.br/noticiasDetalhe.asp?idNoticia=54353</a>
 <h2>Assuntos abordados:</h2>
 
   <h4>Cyber-ataques;</h4>
@@ -50,13 +50,13 @@
 <p>A equipe EasyCloud fica feliz em poder divulgar e compartilhar informações técnicas de desenvolvimento da plataforma EasyCloud v1.0. Nesta primeira versão alguns pontos não tinham sido desenvolvidos na época, como a estrutura MVC e o sistema de login completo, devido ao fato de termos um curto prazo (2 semanas) de desenvolvimento para apresentação da versão 1.0.</p>
   
    
-<h4>Equipe</h4>
-  <h5>Senac</h5>
+<h3>Equipe</h3>
+  <h4>Senac</h4>
   
-  Milene Pires
-  Liane Barretos
-  Rafael Razeira 
-  Guilherme Rubert
+  <h5>Milene Pires</h5>
+  <h5>Liane Barretos</h5>
+  <h5>Rafael Razeira </h5>
+  <h5>Guilherme Rubert</h5>
   
  <h4>Desenvolvimento<h4>
   
