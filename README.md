@@ -45,33 +45,28 @@
  
   
   
-  <h2>Nota Final<>/h2
+  <h4>Nota Final</h4>
   
-<p>A equipe EasyCloud fica feliz em poder divulgar e compartilhar informações técnicas sobre a nossa primeira versão da plataforma EasyCloud. Nesta primeira versão alguns pontos não tinham sido desenvolvidos na época, devido ao fato de termos um curto prazo (2 semanas) de desenvolvimento para apresentação da versão 1.
+<p>A equipe EasyCloud fica feliz em poder divulgar e compartilhar informações técnicas de desenvolvimento da plataforma EasyCloud v1.0. Nesta primeira versão alguns pontos não tinham sido desenvolvidos na época, como a estrutura MVC e o sistema de login completo, devido ao fato de termos um curto prazo (2 semanas) de desenvolvimento para apresentação da versão 1.0.</p>
   
-   Muito tempo e conhecimento foi envolvido em todas etapas da criação da primeira versão, estudos voltados a diversas áreas de TI e de comércio. Queremos que jovens usufruam destas informações para prosseguir com seus projetos pessoais e profissionais, atingindo seus objetivos com maior facilidade.
-    
-  MVC e desenvolvimento não-formal: Optamos por não desenvolver formalmente as primeiras versões. Focamos totalmente no funcionamento e apresentação da solução, já que o prazo de apresentação era curto. Estas certas questões óbviamente foram pensadas e ajustadas em parte, de forma que com a evolução do software, também estamos evoluindo a sua organização em pontos que são cruciais no meio de desenvolvimento profissional. Nossos desenvolvedores estão disponíveis para responder qualquer dúvida sobre a plataforma e o funciomento desta. </p>
-
-  
-  
-<h2>Equipe</h2>
-  <h3>Senac</h3>
+   
+<h4>Equipe</h4>
+  <h5>Senac</h5>
   
   Milene Pires
   Liane Barretos
   Rafael Razeira 
   Guilherme Rubert
   
- <h3>Desenvolvimento<h3>
+ <h4>Desenvolvimento<h4>
   
-  <h4>Guilherme Rubert  (Full Stack Developer) - guilherme@guilhermerubert.com </h4>
+  <h5>Guilherme Rubert  (Full Stack Developer) - guilherme@guilhermerubert.com </h5>
   
-  <h4>Cezar Augusto Crummenauer (Front-end Developer) - cezar.augusto.web@gmail.com </h4>
+  <h5>Cezar Augusto Crummenauer (Front-end Developer) - cezar.augusto.web@gmail.com </h5>
   
   
  
-<h2>Conceitos</h2>
+<h4>Conceitos</h4>
   
   <p>UX: Experiência do usuário, do inglês user experience, é o conjunto de elementos e fatores relativos à interação do usuário com um determinado produto, sistema ou serviço cujo resultado gera uma percepção positiva ou negativa;</p>
  
