@@ -41,7 +41,7 @@
 <h2>Alimentação do Projeto</h2>
 
 
-<p>Queremos manter esta versão do EasyCloud open source, e estamos aceitando modificações e reports relacionado ao projeto. Se você encontrou algum problema, de segurança, de desenvolvimento ou até mesmo informações confidenciais expostas por favor não exite em nos contatar, teremos satisfação em poder contribuir com o público interessado no projeto.</p>
+<p>Queremos manter esta versão do EasyCloud open source, e estamos aceitando modificações e reports relacionado ao projeto. Se você encontrou algum problema, de segurança, de desenvolvimento por favor não exite em nos contatar, teremos satisfação em poder contribuir com o público interessado no projeto.</p>
  
   
   
