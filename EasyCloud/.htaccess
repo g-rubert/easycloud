@@ -1,6 +1,0 @@
-Options -Indexes
-<FilesMatch "\.(txt|sql|ini)$">
-
-Deny From All
-
-</FilesMatch>
