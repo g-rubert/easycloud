@@ -8,8 +8,6 @@
 ╚══════╝╚═╝  ╚═╝╚══════╝   ╚═╝    ╚═════╝╚══════╝ ╚═════╝  ╚═════╝ ╚═════╝ 
                                                                            
 ```
-<p>EasyCloud - Sistema de compartilhamento de arquivos.</p> 
-
 
 **Descrição**
 
